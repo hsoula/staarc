@@ -74,7 +74,7 @@ The method gillespie_step takes a random generator and exit the time to the next
 
 ```
 rule r = rec.rec.get_rule(idx) 
-``
+```
 2- The total_time and step computation are optional it is only to keep track of time and reactions 
 
 ## Versions:
