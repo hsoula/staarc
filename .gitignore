@@ -1,0 +1,9 @@
+packages/
+replicator/bin/
+replicator/obj/
+test/obj/
+test/bin/
+reactor/bin/
+reactor/obj/
+lifemix/obj/
+lifemix/bin/
